@@ -9,6 +9,6 @@
 </div>
 
 <div align="center">
-	<h3>A team of developers & musicians</h3>
+	<h3>We are developers</h3> <h3>We are musicians</h3>
 </div>
 
