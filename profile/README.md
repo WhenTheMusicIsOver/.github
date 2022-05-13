@@ -1,5 +1,6 @@
 <div align="center">
-  	<h1>Welcome to WhenTheMusicIsOver {WMO} Page</h1>
+  	<h1>Welcome to WhenTheMusicIsOver {WMO}</h1>
+	<h3>A team of developers&musicians</h3>
 </div>
 
 <div align="center" >
