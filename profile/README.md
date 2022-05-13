@@ -1,7 +1,7 @@
 
 <div align="center">
 	<h1>WhenTheMusicIsOver</h1>
-	<h2>{WMO}</h2>
+	<div align="center">{WMO}</div>
 </div>
 
 <div align="center">
