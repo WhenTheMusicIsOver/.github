@@ -1,7 +1,7 @@
 
 <div align="center">
-	<h1>Welcome to WhenTheMusicIsOver {WMO}</h1>
-
+	<h1>WhenTheMusicIsOver</h1>
+	<h2>{WMO}</h2>
 </div>
 
 <div align="center">
